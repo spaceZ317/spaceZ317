@@ -160,8 +160,7 @@ Share your idea, your data sources, who you're building for, and your target tim
 
 ## Contact
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- GitHub: [spaceZ317](https://github.com/spaceZ317))
 - Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
-- Upwork: [your-upwork-profile](https://www.upwork.com/)
-- Email: your@email.com
+- Email: space.Z.3171@outlook.com
+
