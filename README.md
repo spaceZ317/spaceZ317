@@ -160,7 +160,7 @@ Share your idea, your data sources, who you're building for, and your target tim
 
 ## Contact
 
-- GitHub: [spaceZ317](https://github.com/spaceZ317))
+- GitHub: [spaceZ317](https://github.com/spaceZ317)
 - Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
 - Email: space.Z.3171@outlook.com
 
