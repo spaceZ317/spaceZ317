@@ -162,5 +162,4 @@ Share your idea, your data sources, who you're building for, and your target tim
 
 - GitHub: [spaceZ317](https://github.com/spaceZ317)
 - Portfolio: [gyasi-portfolio.netlify.app](https://gyasi-portfolio.netlify.app/)
-- Email: space.Z.3171@outlook.com
 
